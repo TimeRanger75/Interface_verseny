@@ -44,6 +44,7 @@ class Marathon implements Result{
 }
 
 
+
 class Calvinball implements Result{
     winner: string;
     Date:Date;
